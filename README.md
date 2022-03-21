@@ -4,7 +4,7 @@ Recipe List, API'den çekilen verilerin Dart ve Flutter kullanılarak görüntü
 
 # Uygulama Görüntüleri
 
-<img src="ss/ss1.png" width="270" height="550">  <img src="ss/ss2.png" width="270" height="550">
+<img src="images/ss1.png" width="270" height="550">  <img src="images/ss2.png" width="270" height="550">
 
 # API 
 
